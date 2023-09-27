@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://dl3.joxi.net/drive/2023/09/26/0056/2518/3721686/86/2bf2e47d86.jpg" width="500"/>
+  <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/AlexFee1">
